@@ -3,6 +3,7 @@ Maleah Ristau Feb 14th 2022*/
 
 body {
     margin: 0;
+    font-family: 'Bebas Neue', cursive;
 }
 
 section {
@@ -10,13 +11,14 @@ section {
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
+  background-color:#9869c9;
 }
 
 header {
   background-color:#490c8a;
   text-align: center;
-  padding-top: 50mm;
-  padding-bottom: 50pmm;
+  padding-top: 50em;
+  padding-bottom: 50em;
   font-family: 'Playfair Display', serif;
 }
 
@@ -28,6 +30,6 @@ body {
 footer {
   background-color:#490c8a;
   text-align: center;
-  padding-top: 50mm;
-  padding-bottom: 50pmm;
+  padding-top: 50em;
+  padding-bottom: 50em;
 }
