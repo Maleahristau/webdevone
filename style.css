@@ -4,3 +4,22 @@ Maleah Ristau Feb 14th 2022*/
 body {
     margin: 0;
 }
+
+section {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+head {
+  background-color:#490c8a;
+}
+
+body {
+  background-color:#7f1ce8;
+}
+
+footer {
+  background-color:#490c8a;
+}
