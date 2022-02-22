@@ -12,14 +12,22 @@ section {
   padding-left: 80px;
 }
 
-head {
+header {
   background-color:#490c8a;
+  text-align: center;
+  padding-top: 50mm;
+  padding-bottom: 50pmm;
+  font-family: 'Playfair Display', serif;
 }
 
 body {
   background-color:#7f1ce8;
+  text-align: center;
 }
 
 footer {
   background-color:#490c8a;
+  text-align: center;
+  padding-top: 50mm;
+  padding-bottom: 50pmm;
 }
