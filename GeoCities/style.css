@@ -1,6 +1,5 @@
 header {
   font-family: 'Calligraffitti', cursive;
-  color:white;
   text-align:center;
   border: 2px solid #6a16ab;
   border-radius: 5px;
@@ -12,9 +11,19 @@ header {
 h1{
   font-size:50px;
 }
+h2{
+  font-size:25px;
+  font-style:bold;
+}
 body {
-  background-image:url('gifs/bganstar.gif');
+  background:black;
+  color:#9b80b0;
 }
 footer{
-  color:#9b80b0;
+  font-family: 'Roboto Mono', monospace;
+}
+.angel{
+  width: 200px;
+  border: 3px solid #d4b60f;
+  font-family: 'Libre Barcode 39', cursive;
 }
