@@ -35,6 +35,7 @@ footer{
   border: 3px solid #460a82;
   border-radius: 15px;
   background-image:url("images/patternfloor.jpg");
+  background-image:url("images/space.jpg");
 }
 .MusicShare{
   font-family: 'Roboto Mono', monospace;
