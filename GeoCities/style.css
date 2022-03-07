@@ -1,3 +1,20 @@
-body{
-background-color:black;
+header {
+  font-family: 'Calligraffitti', cursive;
+  color:white;
+  text-align:center;
+  border: 2px solid #6a16ab;
+  border-radius: 5px;
+  position: absolute; 
+  top:100px;
+  left:850px;
+  background:black;
+}
+h1{
+  font-size:50px;
+}
+body {
+  background-image:url('gifs/bganstar.gif');
+}
+footer{
+  color:#9b80b0;
 }
