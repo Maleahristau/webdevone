@@ -3,6 +3,11 @@ header {
   text-align:center;
   border: 2px solid #6a16ab;
   border-radius: 5px;
+  background-image:url("image/space.jpg");
+}
+p{
+  font-family: 'Roboto Mono', monospace;
+  font-size:20px;
 }
 h1{
   font-size:50px;
@@ -26,8 +31,14 @@ footer{
 .Convo{
   position: absolute; 
   top:500px;
-  left:400px;
+  left:1000px;
   background:black;
   border: 3px solid #460a82;
   border-radius: 15px;
+}
+.MusicShare{
+  font-family: 'Roboto Mono', monospace;
+  position: relative;
+  border: 10px solid #114270;
+  width: 500px;
 }
