@@ -34,17 +34,15 @@ footer{
   left:1000px;
   border: 3px solid #460a82;
   border-radius: 15px;
-  background-image:url("images/patternfloor.jpg");
-  background-image:url("images/space.jpg");
+  background-color:black;
 }
 .MusicShare{
   font-family: 'Roboto Mono', monospace;
   background-image:url("images/patternfloor.jpg");
   position: relative;
   border: 10px solid #114270;
-  width: 900px;
+  width: 700px;
 }
 #right{
   float: left;
-  width: 50px;
 }
