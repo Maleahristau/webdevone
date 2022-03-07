@@ -32,13 +32,16 @@ footer{
   position: absolute; 
   top:500px;
   left:1000px;
-  background:black;
   border: 3px solid #460a82;
   border-radius: 15px;
+  background-image:url("images/patternfloor.jpg");
 }
 .MusicShare{
   font-family: 'Roboto Mono', monospace;
   position: relative;
   border: 10px solid #114270;
   width: 500px;
+}
+#right{
+  float: left;
 }
