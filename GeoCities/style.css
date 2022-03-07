@@ -38,10 +38,12 @@ footer{
 }
 .MusicShare{
   font-family: 'Roboto Mono', monospace;
+  background-image:url("images/patternfloor.jpg");
   position: relative;
   border: 10px solid #114270;
-  width: 500px;
+  width: 700px;
 }
 #right{
   float: left;
+  width: 50px;
 }
