@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --app-size: 8vmin;
+  --spacing: calc(var(--app-size) / 2);
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.outer-container {
+  background-color: gray;
+  padding: var(--spacing);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: var(--spacing);
+  font-size: var(--spacing);
+}
+
+.container {
+  background-color: lightgreen;
+  display: flex;
+  gap: var(--spacing);
+  padding: var(--spacing);
+}
+
+.box {
+  width: var(--app-size);
+  height: var(--app-size);
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+.box:hover {opacity: 1}
