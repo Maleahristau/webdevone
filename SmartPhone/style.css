@@ -13,10 +13,11 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-color: black;
 }
 
 .outer-container {
-  background-color: black;
+  background-color: white;
   padding: var(--spacing);
   display: flex;
   flex-direction: column;
@@ -26,6 +27,7 @@ body {
 }
 
 .container {
+  background-color: white;
   display: flex;
   gap: var(--spacing);
   padding: var(--spacing);
@@ -43,43 +45,43 @@ body {
 }
 .box:hover {opacity: 1}
 
-#1 {background: rgb(2,0,36);
+#1 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);}
-#2 {background: rgb(2,0,36);
+#2 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,121,44,1) 35%, rgba(0,212,255,1) 100%);}
-#3 {background: rgb(2,0,36);
+#3 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(120,121,9,1) 35%, rgba(0,212,255,1) 100%);}
-#4 {background: rgb(2,0,36);
+#4 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(121,35,9,1) 35%, rgba(0,212,255,1) 100%);}
-#5 {background: rgb(2,0,36);
+#5 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(114,9,121,1) 35%, rgba(0,212,255,1) 100%);}
-#6 {background: rgb(2,0,36);
+#6 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(121,9,38,1) 35%, rgba(0,212,255,1) 100%);}
-#7 {background: rgb(2,0,36);
+#7 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(210,160,133,1) 49%, rgba(0,212,255,1) 100%);}
-#8 {background: rgb(2,0,36);
+#8 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(210,176,133,1) 49%, rgba(0,212,255,1) 100%);}
-#9 {background: rgb(2,0,36);
+#9 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(210,207,133,1) 49%, rgba(0,212,255,1) 100%);}
-#10 {background: rgb(2,0,36);
+#10 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(194,210,133,1) 49%, rgba(0,212,255,1) 100%);}
-#11 {background: rgb(2,0,36);
+#11 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(168,210,133,1) 49%, rgba(0,212,255,1) 100%);}
-#12 {background: rgb(2,0,36);
+#12 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(140,210,133,1) 49%, rgba(0,212,255,1) 100%);}
-#13 {background: rgb(2,0,36);
+#13 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(133,210,144,1) 49%, rgba(0,212,255,1) 100%);}
-#14 {background: rgb(2,0,36);
+#14 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(133,210,164,1) 49%, rgba(0,212,255,1) 100%);}
-#15 {background: rgb(2,0,36);
+#15 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(133,210,186,1) 49%, rgba(0,212,255,1) 100%);}
-#16 {background: rgb(2,0,36);
+#16 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(133,210,205,1) 49%, rgba(0,212,255,1) 100%);}
-#17 {background: rgb(2,0,36);
+#17 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(133,190,210,1) 49%, rgba(0,212,255,1) 100%);}
-#18 {background: rgb(2,0,36);
+#18 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(133,166,210,1) 49%, rgba(0,212,255,1) 100%);}
-#19 {background: rgb(2,0,36);
+#19 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(133,144,210,1) 49%, rgba(0,212,255,1) 100%);}
-#20 {background: rgb(2,0,36);
+#20 {
 background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(169,133,210,1) 49%, rgba(0,212,255,1) 100%);}
