@@ -26,13 +26,13 @@ body {
 }
 
 .container {
-  background-color: white;
   display: flex;
   gap: var(--spacing);
   padding: var(--spacing);
 }
 
 .box {
+  background: rgb(2,0,36);
   width: var(--app-size);
   height: var(--app-size);
   display: flex;
