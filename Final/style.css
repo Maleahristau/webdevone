@@ -43,3 +43,9 @@ footer{
 #right{
   float: left;
 }
+
+.wubby{
+ font-family: 'Knewave', cursive;
+ width: 200px;
+ border: 3px solid #28c953;
+}
