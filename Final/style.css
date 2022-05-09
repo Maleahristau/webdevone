@@ -1,0 +1,48 @@
+header {
+  font-family: 'Calligraffitti', cursive;
+  text-align:center;
+  border: 2px solid #6a16ab;
+  border-radius: 5px;
+  background-image:url("images/space.jpg");
+}
+p{
+  font-family: 'Roboto Mono', monospace;
+  font-size:20px;
+}
+h1{
+  font-size:50px;
+}
+h2{
+  font-size:25px;
+  font-style:bold;
+}
+body {
+  background-image:url("gifs/bganstar.gif");
+  color:#9b80b0;
+}
+footer{
+  font-family: 'Roboto Mono', monospace;
+}
+.angel{
+  width: 200px;
+  border: 3px solid #d4b60f;
+  font-family: 'Libre Barcode 39', cursive;
+}
+.Convo{
+  position: absolute; 
+  top:500px;
+  left:1000px;
+  border: 3px solid #460a82;
+  border-radius: 15px;
+  background-color:black;
+}
+.MusicShare{
+  font-family: 'Roboto Mono', monospace;
+  background-image:url("images/patternfloor.jpg");
+  position: relative;
+  border: 10px solid #114270;
+  width: 700px;
+}
+#right{
+  float: left;
+}
